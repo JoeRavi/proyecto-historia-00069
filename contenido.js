@@ -69,7 +69,7 @@ const contenido=[
     },
     {
         "texto":`<h3>Economía de enclave</h3> <br> Se refiere a la práctica económica en la cual las empresas multinacionales como la United Fruit Company se posicionan los países subdesarrollados cuya economía está en crecimiento, como en este caso Costa Rica, para tomar ventaja tanto de la mano de obra barata como explotación de materias primas y recursos de tal modo que se enriquece a costa de estos países, sin aportar realmente al desarrollo económico o al crecimiento de capital de estas naciones pequeñas, creando una situación de dependencia y desigualdad.`,
-        "imagenes":['<img src="imagenes/enclave-1.png"/>','<img src="imagenes/enclave-2.png"/>'],
+        "imagenes":['<img src="imagenes/enclave-1.png"/>','<img src="imagenes/enclave-2.png"/>','<img src="imagenes/enclave-3.jpg"/>'],
         "referencias":`<h3>Referencias</h3>
                     <p>Molina, S. González, E. (2015). Historia de Costa Rica. EUNED.<br>
                     <br><h3>Fotos:</h3>
@@ -79,7 +79,7 @@ const contenido=[
     },
     {
         "texto":`<h3>Patrón oro</h3> <br> Fue una medida tomada en el gobierno de don Rafael Iglesias en 1896 cuando se decidió dejar de acuñar moneda de plata tanto nacional como extranjera. Con este nuevo modelo se creó al colón como moneda oficial cuyo valor sería determinado por los precios internacionales del oro. El patrón oro estuvo vigente hasta la primera guerra mundial cuando los precios decayeron debido a la crisis económica internacional.`,
-        "imagenes":['<img src="imagenes/patronoro-1.jpg"/>','<img src="imagenes/rafael-yglesias-castro.png"/>'],
+        "imagenes":['<img src="imagenes/patronoro-1.jpg"/>','<img src="imagenes/rafael-yglesias-castro.png"/>','<img src="imagenes/patronoro-3.jpg"/>'],
         "referencias":`<h3>Referencias</h3>
                     <p>Molina, S. González, E. (2015). Historia de Costa Rica. EUNED.<br>
                     <br><h3>Fotos:</h3>
