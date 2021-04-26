@@ -75,6 +75,7 @@ const contenido=[
                     <br><h3>Fotos:</h3>
                     https://micostaricadeantano.com/2017/09/05/historia-del-banano-en-c-r/<br>
                     https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1409-469X2011000100003
+                    https://www.monografias.com/trabajos57/economia-de-enclave-nicaragua/economia-de-enclave-nicaragua.shtml
                     </p>`
     },
     {
@@ -84,7 +85,8 @@ const contenido=[
                     <p>Molina, S. González, E. (2015). Historia de Costa Rica. EUNED.<br>
                     <br><h3>Fotos:</h3>
                     https://www.museocostarica.go.cr<br>
-                    https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Costa_Rica_1897_20_Colones_%28proof%29.jpg/1920px-Costa_Rica_1897_20_Colones_%28proof%29.jpg?1618353589120
+                    https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Costa_Rica_1897_20_Colones_%28proof%29.jpg/1920px-Costa_Rica_1897_20_Colones_%28proof%29.jpg?1618353589120<br>
+                    https://oroinformacion.com/que-es-y-como-funciona-el-patron-oro/
                     </p>`
 
     },
