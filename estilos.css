@@ -192,15 +192,15 @@ body
 }
 
 
-@media screen and (max-width: 600px)
+@media screen and (max-width: 771px)
 {
     .contenedor
     {
-        grid-template-areas: "cabecera cabecera cabecera"                           
+        grid-template-areas: "cabecera cabecera cabecera"
+                            "sidebar sidebar sidebar"                           
                             "texto texto  texto"
                             "foto foto  foto"                       
-                            "referencias referencias  referencias"
-                            "sidebar sidebar sidebar"
+                            "referencias referencias  referencias"                        
                             "pie  pie  pie";
                              
 
@@ -217,17 +217,11 @@ body
     .contenedor .foto
     {
     
-        max-height:800px;
+        max-height:1200px;
         
         
         
-        
-        /*
-        background-image: none;
-        
-        */
-        
-        
+       
     
 
     }
