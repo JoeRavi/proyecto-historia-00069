@@ -73,7 +73,7 @@ const contenido=[
         "referencias":`<h3>Referencias</h3>
                     <p>Molina, S. González, E. (2015). Historia de Costa Rica. EUNED.<br>
                     <br><h3>Fotos:</h3>
-                    https://micostaricadeantano.com/2017/09/05/historia-del-banano-en-c-r/
+                    https://micostaricadeantano.com/2017/09/05/historia-del-banano-en-c-r/<br>
                     https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1409-469X2011000100003<br>
                     https://www.monografias.com/trabajos57/economia-de-enclave-nicaragua/economia-de-enclave-nicaragua.shtml
                     </p>`
