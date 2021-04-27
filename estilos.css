@@ -65,6 +65,12 @@ body
 
 }
 
+.catedra a
+{
+    color:whitesmoke;
+    float: right;
+}
+
 .contenedor .sidebar
 {
     background: #531c06;
